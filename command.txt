@@ -1,0 +1,2 @@
+rafce  (react arrowfunction Export component)
+to run application -- yarn dev
